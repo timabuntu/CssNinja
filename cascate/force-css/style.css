@@ -1,3 +1,11 @@
 html {
   background-color: gray;
 }
+
+#page-landing{
+  color: red;
+}
+
+h1{
+  color: green;
+}
