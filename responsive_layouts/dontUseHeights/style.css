@@ -1,11 +1,16 @@
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
 }
 
 .container {
   background-color: #23424a;
-  padding: 50px;
+  color: white;
+
   width: 80%;
   margin: 0 auto;
-  overflow: hidden;
+
+  height: 300px;
 }
