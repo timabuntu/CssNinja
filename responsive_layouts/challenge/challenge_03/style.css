@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background: #23424a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.content {
+  width: 50%;
+  padding: 5rem;
+  font-family: "Roboto", Helvetica, sans-serif;
+}
+
+.content h1,
+p {
+  color: #f2f2f2;
+  font-weight: regular;
+}
+
+.content h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.content p {
+  font-size: 21px;
+  font-weight: regular;
+  margin-top: 2rem;
+}
+
+button {
+  background: #38cfd9;
+  margin-top: 3rem;
+  font-size: 21px;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 1rem 2.5rem;
+  border-radius: 8rem;
+  border: none;
+}
