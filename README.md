@@ -7,9 +7,9 @@
 > 💬 Criei este repositório para acompanhar meus estudos de **CSS**
 <br>
 
-## ![My Skills](https://skillicons.dev/icons?i=git) Organização das Branchs: 
+## ![My Skills](https://skillicons.dev/icons?i=git) Organização das Branch: 
 > 💬 Cada assunto é organizado por uma **Branch** especifica
 <br>
 
 ## ![My Skills](https://skillicons.dev/icons?i=css) O que eu espero:
-> 💬 Gosto muito da area de **UI** tenho objetivo de dominar as de responsividade e animações com **CSS** 
+> 💬 Gosto muito da area de **UI** e **UX**, meu objetivo é aplicar acessibilidade, responsividade e animações com **CSS** 
